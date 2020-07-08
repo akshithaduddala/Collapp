@@ -1,0 +1,22 @@
+
+
+angular is taken from
+
+https://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular.js
+https://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular-sanitize.js
+   
+  
+ sockjs:
+ 
+ - taken from https://raw.github.com/rstoyanchev/spring-websocket-portfolio/master/src/main/webapp/assets/lib/sockjs/sockjs.min.js
+ 
+ stomp:
+ 
+ - taken from https://raw.github.com/rstoyanchev/spring-websocket-portfolio/master/src/main/webapp/assets/lib/stomp/dist/stomp.min.js
+ 
+ spectrum: https://rawgithub.com/bgrins/spectrum/master/spectrum.css + js
+ 
+ - taken from 
+
+ how to center stuff with bootstrap:
+ http://stackoverflow.com/a/18153551
